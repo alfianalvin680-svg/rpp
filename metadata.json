@@ -1,0 +1,6 @@
+{
+  "name": "Generator RPP Prota Prosem",
+  "description": "Aplikasi berbasis AI untuk membuat Modul Ajar (RPP), Program Tahunan (Prota), dan Program Semester (Prosem) Kurikulum Merdeka yang dapat diunduh dalam format dokumen.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
